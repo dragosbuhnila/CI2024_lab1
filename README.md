@@ -1,8 +1,8 @@
 # CI2024_lab1
 Computational Intelligence Course at PoliTO - First Laboratory - Set Cover Problem  
 
-Please read `set-cover_solution_summary` in order to understand the process and findings of the notebook. For details, refer to the notebook itself.  
+Please read `set-cover_solution_summary` in order to understand the process and findings of the notebook. For the code, refer to the `set-cover.ipynb` notebook.  
 
-Both raw files (md and ipynb) and pdf/html versions have been provided for the two files of interest (set-cover_solution_summary.md and set-cover.ipynb)  
+The problem in its different sizes has been instead solved in `set-cover-all.ipynb`. The approach chosen is simulated annealing with constant temperature.
 
 Dragos-Constantin Buhnila --- 9/10/2024
